@@ -1,1 +1,1 @@
-# Cognizant-Artificial-Intelligence-Virtual-Experience-Program
+# cognizant-artificial-intelligence-virtual-experience-program
